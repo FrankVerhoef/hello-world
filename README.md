@@ -1,2 +1,2 @@
 # hello-world
-For tersting ideas
+For testing ideas
